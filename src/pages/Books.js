@@ -35,11 +35,8 @@ export default function Books() {
           const authors = book.authors.join(', ');
           if (book.name.toLowerCase().localeCompare(filter) === 0 || filter === '') {
             return <>
-      
-            <BookDiv key={book.isbn}>
-              
+            <BookDiv key={book.isbn}> 
               <h2>{book.name}</h2>
-
               <DetailsBox className="details">
                 <p>👨: {authors}</p>
                 <p>📖: {book.numberOfPages} pages</p>
