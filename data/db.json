@@ -1,0 +1,582 @@
+{
+  "universitiesUruguay": [
+    {
+      "id": 1,
+      "country": "Uruguay",
+      "state-province": null,
+      "web_pages": [
+        "http://www.claeh.edu.uy/"
+      ],
+      "alpha_two_code": "UY",
+      "name": "Insituto Universitario - Centro Latinoamericano de Economia Humana - IU Claeh",
+      "domains": [
+        "claeh.edu.uy"
+      ]
+    },
+    {
+      "id": 2,
+      "country": "Uruguay",
+      "state-province": null,
+      "web_pages": [
+        "http://www.ort.edu.uy/"
+      ],
+      "alpha_two_code": "UY",
+      "name": "Universidad ORT Uruguay",
+      "domains": [
+        "ort.edu.uy"
+      ]
+    },
+    {
+      "id": 3,
+      "country": "Uruguay",
+      "state-province": null,
+      "web_pages": [
+        "http://www.ucu.edu.uy/"
+      ],
+      "alpha_two_code": "UY",
+      "name": "Universidad Cat\u00f3lica del Uruguay",
+      "domains": [
+        "ucu.edu.uy"
+      ]
+    },
+    {
+      "id": 4,
+      "country": "Uruguay",
+      "state-province": null,
+      "web_pages": [
+        "http://www.ude.edu.uy/"
+      ],
+      "alpha_two_code": "UY",
+      "name": "Universidad de la Empresa (UDE)",
+      "domains": [
+        "ude.edu.uy"
+      ]
+    },
+    {
+      "id": 5,
+      "country": "Uruguay",
+      "state-province": null,
+      "web_pages": [
+        "http://www.um.edu.uy/"
+      ],
+      "alpha_two_code": "UY",
+      "name": "Universidad de Montevideo",
+      "domains": [
+        "um.edu.uy"
+      ]
+    },
+    {
+      "id": 6,
+      "country": "Uruguay",
+      "state-province": null,
+      "web_pages": [
+        "http://www.universidad.edu.uy/"
+      ],
+      "alpha_two_code": "UY",
+      "name": "Universidad de la Rep\u00fablica",
+      "domains": [
+        "universidad.edu.uy"
+      ]
+    }
+  ],
+  "universitiesArgentina": [
+    {
+      "id": 7,
+      "country": "Argentina",
+      "state-province": null,
+      "web_pages": [
+        "http://www.atlantida.edu.ar/"
+      ],
+      "alpha_two_code": "AR",
+      "name": "Universidad Atlantida Argentina",
+      "domains": [
+        "atlantida.edu.ar"
+      ]
+    },
+    {
+      "id": 8,
+      "country": "Argentina",
+      "state-province": null,
+      "web_pages": [
+        "http://www.austral.edu.ar/"
+      ],
+      "alpha_two_code": "AR",
+      "name": "Universidad Austral Buenos Aires",
+      "domains": [
+        "austral.edu.ar"
+      ]
+    },
+    {
+      "id": 9,
+      "country": "Argentina",
+      "state-province": null,
+      "web_pages": [
+        "http://www.caece.edu.ar/"
+      ],
+      "alpha_two_code": "AR",
+      "name": "Universidad CAECE, Buenos Aires",
+      "domains": [
+        "caece.edu.ar"
+      ]
+    },
+    {
+      "id": 10,
+      "country": "Argentina",
+      "state-province": null,
+      "web_pages": [
+        "http://www.cema.edu.ar/"
+      ],
+      "alpha_two_code": "AR",
+      "name": "Instituto Universitario CEMA",
+      "domains": [
+        "cema.edu.ar"
+      ]
+    },
+    {
+      "id": 11,
+      "country": "Argentina",
+      "state-province": null,
+      "web_pages": [
+        "http://www.iese.edu.ar/"
+      ],
+      "alpha_two_code": "AR",
+      "name": "Instituto de Ense\u00f1anza Superior del Ej\u00e9rcito",
+      "domains": [
+        "iese.edu.ar"
+      ]
+    },
+    {
+      "id": 12,
+      "country": "Argentina",
+      "state-province": null,
+      "web_pages": [
+        "http://www.inun.edu.ar/"
+      ],
+      "alpha_two_code": "AR",
+      "name": "Instituto Universitario de Estudios Navales y Mar\u00edtimos",
+      "domains": [
+        "inun.edu.ar"
+      ]
+    },
+    {
+      "id": 13,
+      "country": "Argentina",
+      "state-province": null,
+      "web_pages": [
+        "http://www.itba.edu.ar/"
+      ],
+      "alpha_two_code": "AR",
+      "name": "Instituto Tecnol\u00f3gico de Buenos Aires",
+      "domains": [
+        "itba.edu.ar"
+      ]
+    },
+    {
+      "id": 14,
+      "country": "Argentina",
+      "state-province": null,
+      "web_pages": [
+        "http://www.iua.edu.ar/"
+      ],
+      "alpha_two_code": "AR",
+      "name": "Instituto Universitario Aeron\u00e1utico",
+      "domains": [
+        "iua.edu.ar"
+      ]
+    },
+    {
+      "id": 15,
+      "country": "Argentina",
+      "state-province": null,
+      "web_pages": [
+        "http://iucs.uncoma.edu.ar/"
+      ],
+      "alpha_two_code": "AR",
+      "name": "Instituto Universitario de Ciencias de la Salud - Buenos Aires",
+      "domains": [
+        "iucs.uncoma.edu.ar"
+      ]
+    },
+    {
+      "id": 16,
+      "country": "Argentina",
+      "state-province": null,
+      "web_pages": [
+        "http://www.iuna.edu.ar/"
+      ],
+      "alpha_two_code": "AR",
+      "name": "Instituto Universitario Nacional del Arte",
+      "domains": [
+        "iuna.edu.ar"
+      ]
+    },
+    {
+      "id": 17,
+      "country": "Argentina",
+      "state-province": null,
+      "web_pages": [
+        "http://www.kennedy.edu.ar/"
+      ],
+      "alpha_two_code": "AR",
+      "name": "Universidad Argentina \"John F. Kennedy\"",
+      "domains": [
+        "kennedy.edu.ar"
+      ]
+    },
+    {
+      "id": 18,
+      "country": "Argentina",
+      "state-province": null,
+      "web_pages": [
+        "http://www.maimonides.edu.ar/"
+      ],
+      "alpha_two_code": "AR",
+      "name": "Universidad Maim\u00f3nides",
+      "domains": [
+        "maimonides.edu.ar"
+      ]
+    },
+    {
+      "id": 19,
+      "country": "Argentina",
+      "state-province": null,
+      "web_pages": [
+        "http://www.mdp.edu.ar/"
+      ],
+      "alpha_two_code": "AR",
+      "name": "Universidad Nacional de Mar del Plata",
+      "domains": [
+        "mdp.edu.ar"
+      ]
+    },
+    {
+      "id": 20,
+      "country": "Argentina",
+      "state-province": null,
+      "web_pages": [
+        "http://www.palermo.edu.ar/"
+      ],
+      "alpha_two_code": "AR",
+      "name": "Universidad de Palermo",
+      "domains": [
+        "palermo.edu.ar"
+      ]
+    },
+    {
+      "id": 21,
+      "country": "Argentina",
+      "state-province": null,
+      "web_pages": [
+        "http://www.salvador.edu.ar/"
+      ],
+      "alpha_two_code": "AR",
+      "name": "Universidad del Salvador",
+      "domains": [
+        "salvador.edu.ar"
+      ]
+    },
+    {
+      "id": 22,
+      "country": "Argentina",
+      "state-province": null,
+      "web_pages": [
+        "http://www.uade.edu.ar/"
+      ],
+      "alpha_two_code": "AR",
+      "name": "Universidad Argentina de la Empresa",
+      "domains": [
+        "uade.edu.ar"
+      ]
+    },
+    {
+      "id": 23,
+      "country": "Argentina",
+      "state-province": null,
+      "web_pages": [
+        "http://www.uader.edu.ar/"
+      ],
+      "alpha_two_code": "AR",
+      "name": "Universidad Aut\u00f3noma de Entre R\u00edos",
+      "domains": [
+        "uader.edu.ar"
+      ]
+    },
+    {
+      "id": 24,
+      "country": "Argentina",
+      "state-province": null,
+      "web_pages": [
+        "http://www.uapar.edu/"
+      ],
+      "alpha_two_code": "AR",
+      "name": "Universidad Adventista del Plata",
+      "domains": [
+        "uapar.edu"
+      ]
+    },
+    {
+      "id": 25,
+      "country": "Argentina",
+      "state-province": null,
+      "web_pages": [
+        "http://www.uba.ar/"
+      ],
+      "alpha_two_code": "AR",
+      "name": "Universidad de Buenos Aires",
+      "domains": [
+        "uba.ar"
+      ]
+    }
+  ],
+  "universitiesParaguay": [
+    {
+      "id": 26,
+      "country": "Paraguay",
+      "state-province": null,
+      "web_pages": [
+        "http://www.columbia.edu.py/"
+      ],
+      "alpha_two_code": "PY",
+      "name": "Universidad Columbia del Paraguay",
+      "domains": [
+        "columbia.edu.py"
+      ]
+    },
+    {
+      "id": 27,
+      "country": "Paraguay",
+      "state-province": null,
+      "web_pages": [
+        "http://www.uaa.edu.py/"
+      ],
+      "alpha_two_code": "PY",
+      "name": "Universidad Aut\u00f3noma de Asunci\u00f3n",
+      "domains": [
+        "uaa.edu.py"
+      ]
+    },
+    {
+      "id": 28,
+      "country": "Paraguay",
+      "state-province": null,
+      "web_pages": [
+        "http://www.uamericana.edu.py/"
+      ],
+      "alpha_two_code": "PY",
+      "name": "Universidad Americana",
+      "domains": [
+        "uamericana.edu.py"
+      ]
+    },
+    {
+      "id": 29,
+      "country": "Paraguay",
+      "state-province": null,
+      "web_pages": [
+        "http://www.uap.edu.py/"
+      ],
+      "alpha_two_code": "PY",
+      "name": "Universidad Aut\u00f3noma del Paraguay",
+      "domains": [
+        "uap.edu.py"
+      ]
+    },
+    {
+      "id": 30,
+      "country": "Paraguay",
+      "state-province": null,
+      "web_pages": [
+        "http://www.uc.edu.py/"
+      ],
+      "alpha_two_code": "PY",
+      "name": "Universidad Cat\u00f3lica Nuestra Senora de la Asunci\u00f3n",
+      "domains": [
+        "uc.edu.py"
+      ]
+    },
+    {
+      "id": 31,
+      "country": "Paraguay",
+      "state-province": null,
+      "web_pages": [
+        "http://www.ucom.edu.py/"
+      ],
+      "alpha_two_code": "PY",
+      "name": "Universidad Comunera",
+      "domains": [
+        "ucom.edu.py"
+      ]
+    },
+    {
+      "id": 32,
+      "country": "Paraguay",
+      "state-province": null,
+      "web_pages": [
+        "http://www.ucsa.edu.py/"
+      ],
+      "alpha_two_code": "PY",
+      "name": "Universidad del Cono Sur de las Am\u00e9ricas",
+      "domains": [
+        "ucsa.edu.py"
+      ]
+    },
+    {
+      "id": 33,
+      "country": "Paraguay",
+      "state-province": null,
+      "web_pages": [
+        "http://www.uma.edu.py/"
+      ],
+      "alpha_two_code": "PY",
+      "name": "Universidad Metropolitana de Asunci\u00f3n",
+      "domains": [
+        "uma.edu.py"
+      ]
+    },
+    {
+      "id": 34,
+      "country": "Paraguay",
+      "state-province": null,
+      "web_pages": [
+        "http://www.una.py/"
+      ],
+      "alpha_two_code": "PY",
+      "name": "Universidad Nacional de Asunci\u00f3n",
+      "domains": [
+        "una.py"
+      ]
+    },
+    {
+      "id": 35,
+      "country": "Paraguay",
+      "state-province": null,
+      "web_pages": [
+        "http://www.une.edu.py/"
+      ],
+      "alpha_two_code": "PY",
+      "name": "Universidad Nacional del Este",
+      "domains": [
+        "une.edu.py"
+      ]
+    },
+    {
+      "id": 36,
+      "country": "Paraguay",
+      "state-province": null,
+      "web_pages": [
+        "http://www.unida.edu.py/"
+      ],
+      "alpha_two_code": "PY",
+      "name": "Universidad de la Integraci\u00f3n de las Americas (UNIDAD)",
+      "domains": [
+        "unida.edu.py"
+      ]
+    },
+    {
+      "id": 37,
+      "country": "Paraguay",
+      "state-province": null,
+      "web_pages": [
+        "http://www.uninorte.edu.py/"
+      ],
+      "alpha_two_code": "PY",
+      "name": "Universidad del Norte",
+      "domains": [
+        "uninorte.edu.py"
+      ]
+    },
+    {
+      "id": 38,
+      "country": "Paraguay",
+      "state-province": null,
+      "web_pages": [
+        "http://www.upe.edu.py/"
+      ],
+      "alpha_two_code": "PY",
+      "name": "Universidad Privada del Este",
+      "domains": [
+        "upe.edu.py"
+      ]
+    }
+  ],
+  "universitiesChile": [
+    {
+      "id": 39,
+      "country": "Chile",
+      "state-province": null,
+      "web_pages": [
+        "http://www.academia.cl/"
+      ],
+      "alpha_two_code": "CL",
+      "name": "Universidad Academia de Humanismo Cristiano",
+      "domains": [
+        "academia.cl"
+      ]
+    },
+    {
+      "id": 40,
+      "country": "Chile",
+      "state-province": null,
+      "web_pages": [
+        "http://www.arquitecturaucv.cl/"
+      ],
+      "alpha_two_code": "CL",
+      "name": "Escuela de Arquitectura y Dise\u00f1o",
+      "domains": [
+        "arquitecturaucv.cl"
+      ]
+    },
+    {
+      "id": 41,
+      "country": "Chile",
+      "state-province": null,
+      "web_pages": [
+        "https://www.uc.cl/"
+      ],
+      "alpha_two_code": "CL",
+      "name": "Pontificia Universidad Catolica de Chile",
+      "domains": [
+        "uc.cl"
+      ]
+    },
+    {
+      "id": 43,
+      "country": "Chile",
+      "state-province": null,
+      "web_pages": [
+        "http://www.uach.cl/"
+      ],
+      "alpha_two_code": "CL",
+      "name": "Universidad Austral de Chile",
+      "domains": [
+        "uach.cl"
+      ]
+    },
+    {
+      "id": 44,
+      "country": "Chile",
+      "state-province": null,
+      "web_pages": [
+        "http://www.uaconcagua.cl/"
+      ],
+      "alpha_two_code": "CL",
+      "name": "Universidad de Aconcagua",
+      "domains": [
+        "uaconcagua.cl"
+      ]
+    },
+    {
+      "id": 45,
+      "country": "Chile",
+      "state-province": null,
+      "web_pages": [
+        "http://www.uahurtado.cl/"
+      ],
+      "alpha_two_code": "CL",
+      "name": "Universidad Alberto Hurtado",
+      "domains": [
+        "uahurtado.cl"
+      ]
+    }
+  ]
+}
