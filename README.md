@@ -2,7 +2,8 @@
 
 ### Set up the project: run the following commands
 - yarn install
-- In a new terminal run this to set-up the local api: json-server data/db.json -p 3333 -w
+- In a new terminal run this to set-up the local api: 
+    json-server data/db.json -p 3333 -w
 - yarn dev
   
   ENJOY!! :) 
@@ -29,7 +30,7 @@
     - The list of universities should be displayed filtered by country: the user should be able to change the country at any time. 
 
 * Page Books
-    -  Fetch data about books from this API: 'https://www.anapioficeandfire.com/api/books'
+    -  Fetch data about books from this API: 'https://www.anapioficeandfire.com/api/books'.
     Display .
     - At least 10 books with their information.
     - Allow the user search a book by name, and display only the book that the user searched.
