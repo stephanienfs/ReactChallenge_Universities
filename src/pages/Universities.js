@@ -1,12 +1,12 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect } from 'react';
 
 import axios from 'axios';
 
 import { connect } from 'react-redux';
 
 import { CardCountry } from '../components/ui/Cards';
-import { BoxCenter } from '../components/ui/Box';
-import { Select, Label } from '../components/ui/Select';
+import { BoxCenter, Label } from '../components/ui/Box';
+import { Select } from '../components/ui/Select';
 
 import { PieChart, Pie, Tooltip, Legend } from 'recharts';
 import { setFilter } from '../data/actions/filter';

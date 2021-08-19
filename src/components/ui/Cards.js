@@ -3,7 +3,7 @@ import styled from 'styled-components';
 
 export const CardCountry = styled(Card)`
   background-color: #b4c8db;
-  width: 50rem;
+  width: 800px;
   margin-left: auto;
   margin-right: auto;
   display:block;

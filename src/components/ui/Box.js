@@ -1,5 +1,9 @@
 import styled from 'styled-components';
 
+export const Label = styled.label`
+font: 16px sans-serif;
+margin:20px;
+`;
 
 export const BookDiv = styled.div`
   background: #fff;
@@ -10,7 +14,7 @@ export const BookDiv = styled.div`
   width: 47%;
   color: #333;
   flex-basis: width;
-  background-color: rgb(165, 230, 230);
+  background-color: #b4c8db;  ;
 `;
 export const BookContainer = styled.div `
     display: flex;

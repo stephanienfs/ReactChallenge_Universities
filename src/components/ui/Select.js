@@ -1,10 +1,5 @@
 import styled from 'styled-components';
 
-export const Label = styled.label`
-font: 16px sans-serif;
-margin:20px;
-`;
-
 export const Select = styled.select`
   width: 20%;
   height:35px;
